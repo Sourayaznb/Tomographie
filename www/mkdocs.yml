@@ -1,0 +1,24 @@
+site_name: Tomographie Infrarouge par BiomedX
+site_description: Notre projet BA2 de Tomographie Infrarouge (2021-2022).
+site_url: https://biomed.ba2-docs.ulb.ovh/tomographie
+site_dir: public
+copyright: Creative Commons Attribution Non Commercial
+theme:
+    name: readthedocs #spacelab (default theme cf. enonce) - non testé: cerulean, cosmo, cyborg, amelia, darkly,    
+markdown_extensions:
+  - attr_list
+  - def_list
+plugins:
+    - search:
+        lang: fr
+    - mkdocs-jupyter
+    - git-revision-date
+    - mkdocs-video
+nav:
+    - Acceuil: index.md
+    - MkDocs : mkdocs.md
+    - Enoncé du projet : enonce.md
+    - Simulations: simulations.ipynb
+    - Calibration de capteur(s): calibrations.md
+    
+

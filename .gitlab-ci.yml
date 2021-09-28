@@ -1,0 +1,20 @@
+image: python:3.8-buster
+
+before_script:
+  - pip install -r www_requirements.txt
+
+pages:
+  stage: deploy
+  script:
+    - cd www
+    - mkdocs build --strict --verbose
+    - mv public ../
+  artifacts:
+    paths:
+      - public
+  only:    
+    changes:
+      - "www/**/*.md"
+      - "www/**/*.ipynb"
+  tags:
+    - docker  
