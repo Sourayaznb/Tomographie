@@ -15,7 +15,7 @@ plugins:
     - git-revision-date
     - mkdocs-video
 nav:
-    - Acceuil: index.md
+    - Accueil: index.md
     - MkDocs : mkdocs.md
     - Enoncé du projet : enonce.md
     - Simulations: simulations.ipynb
