@@ -4,7 +4,9 @@ Ce dossier vous permet de mettre vos fichiers en ligne de manière publique acce
 
 Le contenu de ce dossier et la suite de ce README (en anglais) est repris du template fourni sur le site de [gitlab](https://gitlab.com/pages/mkdocs). 
 
-Toutefois, certaines modifications ont été faites, par exemple, le template sélectionné est _readthedocs_ et la possibilité de générer également des pages à partir d'un fichier "notebook python", grâce à la modification du fichier [`mkdocs.yml`](mkdocs.yml) et l'ajout de certains [`requirements`](../www-requirements.txt) pour la compilation des pages mkdocs. N'hésitez pas à faire des modifications que vous souhaitez (p/ex templates).
+Toutefois, certaines modifications ont été faites, par exemple, le template sélectionné est _readthedocs_ et la possibilité de générer également des pages à partir d'un fichier "notebook python", grâce à la modification du fichier [`mkdocs.yml`](mkdocs.yml) et l'ajout de certains [`requirements`](../www_requirements.txt) pour la compilation des pages mkdocs. N'hésitez pas à faire des modifications que vous souhaitez (p/ex templates).
+
+Ce site web est automatiquement généré avec l'[adresse suivante](https://biomed.ba2-docs.ulb.ovh/tomographie/). Si vous _forker_ ce projet dans votre sous-groupe _biomedX_ avec un nom de projet _monprojet_, le site sera alors accessible à l'adresse https://biomed.ba2-docs.ulb.ovh/biomedX/monprojet dès qu'un fichier _Markdown_ de ce dossier est modifié.
 
 
 ## MkDocs Template
