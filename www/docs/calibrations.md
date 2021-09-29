@@ -7,7 +7,7 @@ Ce(s) capteur(s) a(ont) été choisi(s) sur base des critères suivants :
 - Critère 1
 - Critère 2
 
-Ils ont été ensuite testé et le meilleur a été calibré pour améliorer les mesures ...
+Ils ont été ensuite testés et le meilleur a été finalement calibré ...
 
 
 ## Procédure de test(s)
@@ -15,7 +15,7 @@ Ils ont été ensuite testé et le meilleur a été calibré pour améliorer les
 Les étapes suivantes ont été réalisées pour tester le capteur :
 
 1. Utilisation de plaquettes de PLA de 0.4mm ...
-2. Branchement au microcontrôleur sur la patte ...
+2. Branchement du capteur au microcontrôleur XXX sur la patte x ...
 3. ...
 
 
@@ -29,7 +29,7 @@ Nous voyons bien que le microntrôleur permet encore de mesurer un signal à tra
 
 ## Procédure de calibration du capteur choisi
 
-(inspirer de la préocédure de test)
+(inspirer de la procédure de test)
 Comment on fait la mesure ...
 
 
