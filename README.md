@@ -1,6 +1,6 @@
 # Projet BA2 Biomed (Template)
 
-Il s'agit d'un template pour créer votre répositoire sur le gitlab du projet BA2. Il suffit de "_forker_" ce projet vers un autre projet de votre groupe _Biomedx_.
+Il s'agit d'un template pour créer votre répositoire sur le gitlab du projet BA2. Il suffit de faire un "_Fork_" de ce projet vers un autre projet de votre groupe _Biomedx_.
 
 ![forker](www/docs/img/fork.png)
 
